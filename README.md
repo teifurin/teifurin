@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/based%20in-Tokyo-1F3A5F?style=flat-square" alt="Based in Tokyo" />
   <img src="https://img.shields.io/badge/building%20with-AI%20coding%20agents-1F3A5F?style=flat-square" alt="Building with AI coding agents" />
   <img src="https://img.shields.io/badge/likes-MCP%20%C2%B7%20Agent%20Skills-5B7FA6?style=flat-square" alt="Likes MCP and Agent Skills" />
-  <a href="https://github.com/teifurin?tab=followers"><img src="https://img.shields.io/github/followers/teifurin?style=flat-square&amp;label=followers&amp;color=1F3A5F" alt="GitHub followers" /></a>
 </p>
 
 ---
