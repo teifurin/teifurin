@@ -11,10 +11,6 @@
 - 🧩 **关注 MCP、Agent Skill 与真实数据接入** — 喜欢“能被验证”的 AI 输出，而不是凭空生成
 - 🧪 当前项目以试验、比赛作品和学习笔记为主 / experiments, contest entries & notes
 
-<p align="center">
-  <img src="assets/banner.gif" width="720" alt="teifurin banner" />
-</p>
-
 ---
 
 ### 🗂️ Project Collection · 项目合集
@@ -45,5 +41,9 @@
 | [MiroShark](https://github.com/MiroShark/MiroShark) *(contributor)* | 开源群体智能模拟引擎，用于试验 | An open-source swarm-simulation engine, for experiments |
 
 ---
+
+<p align="center">
+  <img src="assets/banner.gif" width="720" alt="teifurin banner" />
+</p>
 
 <p align="center"><sub>Made in Tokyo with AI coding agents · 最后更新 2026-10</sub></p>
