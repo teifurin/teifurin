@@ -28,7 +28,7 @@
   <a href="https://github.com/teifurin/mai-just-right">
     <img src="assets/mai-just-right.png" width="400" alt="mai-just-right — 麦麦刚刚好：先选想吃的，再算怎么买；需求优先的组合优化 + 官方麦当劳 MCP 核价 + 透明小票与多人分摊" />
   </a>
-  <a href="https://github.com/teifurin/MiroShark">
+  <a href="https://github.com/MiroShark/MiroShark">
     <img src="assets/miroshark.png" width="400" alt="MiroShark (contributor) — 开源群体智能模拟引擎：把一个场景交给上百个 Agent / An open-source swarm-simulation engine, used for experiments" />
   </a>
 </p>
@@ -36,13 +36,13 @@
 <p align="center">
   <a href="https://github.com/teifurin/mai-just-right"><img src="https://img.shields.io/github/stars/teifurin/mai-just-right?style=social&label=mai-just-right" alt="mai-just-right stars" /></a>
   &nbsp;
-  <a href="https://github.com/teifurin/MiroShark"><img src="https://img.shields.io/github/stars/teifurin/MiroShark?style=social&label=MiroShark" alt="MiroShark stars" /></a>
+  <a href="https://github.com/MiroShark/MiroShark"><img src="https://img.shields.io/github/stars/MiroShark/MiroShark?style=social&label=MiroShark" alt="MiroShark stars" /></a>
 </p>
 
 | Project | 一句话 | One-liner |
 | --- | --- | --- |
 | [mai-just-right](https://github.com/teifurin/mai-just-right) | 先选想吃的，再算怎么买：套餐、优惠与预算放在同一张清楚的账单上 | Demand-first McDonald's meal optimizer with official MCP price checks |
-| [MiroShark](https://github.com/teifurin/MiroShark) *(contributor)* | 开源群体智能模拟引擎，用于试验 | An open-source swarm-simulation engine, for experiments |
+| [MiroShark](https://github.com/MiroShark/MiroShark) *(contributor)* | 开源群体智能模拟引擎，用于试验 | An open-source swarm-simulation engine, for experiments |
 
 ---
 
